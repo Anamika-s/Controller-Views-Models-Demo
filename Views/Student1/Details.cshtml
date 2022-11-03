@@ -1,0 +1,17 @@
+﻿@model WebApplicationMVCCore.Models.Student
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+@{ if (Model == null)
+    {
+         <h2> There is no student record with this ID </h2>
+    }
+    else
+    {
+                @Model.Id @Model.Name
+        }
+    }
+

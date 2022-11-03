@@ -1,0 +1,34 @@
+﻿@* Views shich are dependent upon some model class are known as strongly typed View *@
+@* We have intellisense feature here *@
+    @model IEnumerable<WebApplicationMVCCore.Models.Student>
+    @{
+        ViewData["Title"] = "Index";
+    }
+
+    <h1> List of Students </h1>
+
+
+    <table class="table">
+        <tr>
+            <th> ID </th>
+            <th> Name </th>
+            <th> Batch </th>
+            <th> Marks </th>
+        </tr>
+        @{ foreach (var student in Model)
+            {
+
+                <tr>
+
+                    <td> @student.Id </td>
+                    <td> @student.Name </td>
+                    <td> @student.Batch</td>
+                    <td> @student.Marks </td>
+
+                </tr>
+                }
+            }
+        </table>
+
+
+

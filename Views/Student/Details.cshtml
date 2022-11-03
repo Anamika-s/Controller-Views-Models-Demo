@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1> Student Details</h1>
+
+
+ @{ if (ViewBag.message != null)
+
+     {
+     <font color="red">
+         @ViewBag.message
+     </font>
+     }
+
+     else
+     {
+                @ViewBag.student.Id  @ViewBag.student.Name;
+     }
+
+
+     }
