@@ -117,3 +117,8 @@ C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\De
 C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
 C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Student1\Index.cshtml.g.cs
 C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Student1\Details.cshtml.g.cs
+C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\Anamika\source\repos\WebApplicationMVCCore\WebApplicationMVCCore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
